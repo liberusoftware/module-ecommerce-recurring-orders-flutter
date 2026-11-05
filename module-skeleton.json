@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recurring-orders-flutter",
+  "capabilityKey": "planned:ecommerce:recurring-orders",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_recurring_orders_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/recurring-orders.md",
+  "presentationPlan": "projects/ecommerce/flutter/recurring-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
